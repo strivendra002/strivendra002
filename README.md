@@ -47,7 +47,7 @@
 ### 🧑‍🏫 heyQuiz App  
 Interactive quiz platform to attempt and create quizzes.  
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://myquiz-1.onrender.com/)  
----
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/strivendra002/MyQuiz)  
 
 ---
 ### 💊 ePharma (Online Pharmacy)  
