@@ -13,7 +13,7 @@
 - 💼 Passionate about **Full Stack Development** with **React, Node.js, MongoDB, and TypeScript**  
 - 🌱 Exploring **3D Portfolio (React Three Fiber)** and **Cloud Deployments**  
 - 🏗️ Built projects like **Task Manager, Recipe Finder, heyQuiz, ePharma, Court Case Management**  
-- 📄 [View my Resume](https://drive.google.com/file/d/1VnCtCEM92QpQ_Y0dTwL5vk-UrVD2B0ty/view?usp=sharing)  
+- 📄 [View my Resume](https://drive.google.com/file/d/1kHxV0wbwmTTYbFiDtE4wqalmuD-nyGmg/view?usp=sharing)  
 - 📫 Reach me at **strivendra002@gmail.com**  
 - 🌍 Based in **Gurugram, Haryana, India**  
 
