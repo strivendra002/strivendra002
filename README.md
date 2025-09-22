@@ -7,16 +7,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strivendra002&label=Profile%20views&color=0e75b6&style=flat" alt="strivendra002" /> </p>
 
-## 🚀 About Me  
+🚀 About Me
 
-- 🔭 Currently working on **Recipe App (MERN)** & **Case Management Solutions**  
-- 💼 Passionate about **Full Stack Development** with **React, Node.js, MongoDB, and TypeScript**  
-- 🌱 Exploring **3D Portfolio (React Three Fiber)** and **Cloud Deployments**  
-- 🏗️ Built projects like **Task Manager, Recipe Finder, heyQuiz, ePharma, Court Case Management**  
-- 📄 [View my Resume](https://drive.google.com/file/d/1kHxV0wbwmTTYbFiDtE4wqalmuD-nyGmg/view?usp=sharing)  
-- 📫 Reach me at **strivendra002@gmail.com**  
-- 🌍 Based in **Gurugram, Haryana, India**  
+💻 Associate Software Developer at ARENESS Foundation for 7 months, working on live projects like Case Management System (www.cms.lawterv.com
+) involving frontend, backend, microservices, and web scraping
 
+🔭 Currently working on Recipe App (MERN) & Case Management Solutions
+
+💼 Passionate about Full Stack Development with React, Node.js, MongoDB, and TypeScript
+
+🌱 Exploring 3D Portfolio (React Three Fiber) and Cloud Deployments
+
+🏗️ Built projects like Task Manager, Recipe Finder, heyQuiz, ePharma, Court Case Management
+
+
+
+📄 View my Resume
+
+📫 Reach me at strivendra002@gmail.com
+
+🌍 Based in Gurugram, Haryana, India
 ---
 
 ## 💻 Tech Stack  
