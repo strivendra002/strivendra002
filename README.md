@@ -51,8 +51,11 @@ Interactive quiz platform to attempt and create quizzes.
 
 ---
 ### 💊 ePharma (Online Pharmacy)  
+
 Online pharmacy platform with authentication & cart functionality.  
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://resilient-mermaid-621bb0.netlify.app/)  
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/strivendra002/EPharma)  
+
 ---
 
 ### 🍲 Recipe App (MERN)  
@@ -64,7 +67,7 @@ Search any dish and view detailed recipes.
 
 
 ### ⚖️ Court Case Management  
-High Court & Consumer Court case tracking system with notifications and JWT authentication.  
+High Court & Consumer Court case tracking system with notifications and JWT authentication(working).  
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/strivendra002)  
 
 ---
