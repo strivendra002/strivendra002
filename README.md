@@ -22,7 +22,9 @@
 
 
 
-📄 View my Resume
+📄 View my Resume -[Resume](https://drive.google.com/file/d/1NmYtgO7PYepSC0Szl9u2n-r6MTTBzG3X/view?usp=sharing)
+## 🖥️ Portfolio  
+Check out my portfolio 👉 [portfolio-two-pi-ejaoseqvam.vercel.app](https://portfolio-two-pi-ejaoseqvam.vercel.app/)
 
 📫 Reach me at strivendra002@gmail.com
 
@@ -93,8 +95,7 @@ High Court & Consumer Court case tracking system with notifications and JWT auth
 
 ---
 
-## 🖥️ Portfolio  
-Check out my portfolio 👉 [portfolio-two-pi-ejaoseqvam.vercel.app](https://portfolio-two-pi-ejaoseqvam.vercel.app/)
+
 
 ---
 
