@@ -3,41 +3,66 @@
 <h1 align="center">Hi 👋, I'm Trivendra Kumar</h1>
 <h3 align="center">Full Stack Web Developer | Building Scalable Web Apps & Interactive Solutions</h3>
 
+<p align="center">
+I’m a Full Stack Web Developer passionate about crafting scalable applications and interactive solutions.  
+With hands-on experience in React, Node.js, and MongoDB, I enjoy solving real-world problems  
+and building products that blend functionality with great user experience.
+</p>
+
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=strivendra002&label=Profile%20views&color=0e75b6&style=flat" alt="strivendra002" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=strivendra002&label=Profile%20views&color=0e75b6&style=flat" alt="strivendra002" /> 
+</p>
 
-🚀 About Me
+---
 
-💻 Associate Software Developer at ARENESS Foundation for 7 months, working on live projects like Case Management System (www.cms.lawterv.com
-) involving frontend, backend, microservices, and web scraping
+## 🚀 About Me  
 
-🔭 Currently working on Recipe App (MERN) & Case Management Solutions
+💻 Associate Software Developer at **ARENESS Foundation** (7 months), working on live projects like **Case Management System** (www.cms.lawterv.com) involving frontend, backend, microservices, and web scraping.  
 
-💼 Passionate about Full Stack Development with React, Node.js, MongoDB, and TypeScript
+🔭 Currently working on **Recipe App (MERN)** & **Case Management Solutions**  
 
-🌱 Exploring 3D Portfolio (React Three Fiber) and Cloud Deployments
+💼 Passionate about **Full Stack Development** with React, Node.js, MongoDB, and TypeScript  
 
-🏗️ Built projects like Task Manager, Recipe Finder, heyQuiz, ePharma, Court Case Management
+🌱 Exploring **3D Portfolio (React Three Fiber)** and **Cloud Deployments**  
 
+🏗️ Built projects like **Task Manager, Recipe Finder, heyQuiz, ePharma, Court Case Management**  
 
+📄 View my **[Resume](https://drive.google.com/file/d/1NmYtgO7PYepSC0Szl9u2n-r6MTTBzG3X/view?usp=sharing)**  
 
-📄 View my Resume -[Resume](https://drive.google.com/file/d/1NmYtgO7PYepSC0Szl9u2n-r6MTTBzG3X/view?usp=sharing)
-## 🖥️ Portfolio  
-Check out my portfolio 👉 [portfolio-two-pi-ejaoseqvam.vercel.app](https://portfolio-two-pi-ejaoseqvam.vercel.app/)
+🖥️ Check out my **[Portfolio](https://portfolio-two-pi-ejaoseqvam.vercel.app/)**  
 
-📫 Reach me at strivendra002@gmail.com
+📫 Reach me at **strivendra002@gmail.com**  
 
-🌍 Based in Gurugram, Haryana, India
+🌍 Based in **Gurugram, Haryana, India**  
+
 ---
 
 ## 💻 Tech Stack  
 
-**Frontend:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white) ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?logo=chakra-ui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) 
+![Redux](https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white) 
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?logo=chakra-ui&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
 
-**Backend:** ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens)  
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-404D59) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) 
+![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens)  
 
-**Tools & Technologies:** ![Git](https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)  
+**Tools & Technologies:**  
+![Git](https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) 
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) 
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)  
 
 ---
 
@@ -55,15 +80,15 @@ Check out my portfolio 👉 [portfolio-two-pi-ejaoseqvam.vercel.app](https://por
 ---
 
 ## 🎯 Featured Projects  
----
+
 ### 🧑‍🏫 heyQuiz App  
 Interactive quiz platform to attempt and create quizzes.  
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://myquiz-1.onrender.com/)  
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/strivendra002/MyQuiz)  
 
 ---
-### 💊 ePharma (Online Pharmacy)  
 
+### 💊 ePharma (Online Pharmacy)  
 Online pharmacy platform with authentication & cart functionality.  
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://resilient-mermaid-621bb0.netlify.app/)  
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/strivendra002/EPharma)  
@@ -77,14 +102,13 @@ Search any dish and view detailed recipes.
 
 ---
 
-
 ### ⚖️ Court Case Management  
-High Court & Consumer Court case tracking system with notifications and JWT authentication(working).  
+High Court & Consumer Court case tracking system with notifications and JWT authentication (working).  
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/strivendra002)  
 
 ---
 
-## 🌐 Connect with me  
+## 🌐 Connect with Me  
 
 <p align="center">
 <a href="https://www.linkedin.com/in/trivendra-kumar-b9302a226/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -92,10 +116,6 @@ High Court & Consumer Court case tracking system with notifications and JWT auth
 <a href="mailto:strivendra002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="tel:+919752618573"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
-
----
-
-
 
 ---
 
