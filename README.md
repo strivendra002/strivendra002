@@ -9,7 +9,6 @@ With hands-on experience in React, Node.js, and MongoDB, I enjoy solving real-wo
 and building products that blend functionality with great user experience.
 </p>
 
- <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> 
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=strivendra002&label=Profile%20views&color=0e75b6&style=flat" alt="strivendra002" /> 
