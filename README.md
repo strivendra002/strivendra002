@@ -119,4 +119,4 @@ High Court & Consumer Court case tracking system with notifications and JWT auth
 
 ---
 
-<p align="center">💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</p>
+<p align="center">🐞 *"99 bugs in the code, fix one… now you have 127."* </p>
