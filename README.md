@@ -119,4 +119,4 @@ High Court & Consumer Court case tracking system with notifications and JWT auth
 
 ---
 
-<p align="center">🐞 *"99 bugs in the code, fix one… now you have 127."* </p>
+<p align="center">🐞 "99 bugs in the code, fix one… now you have 127." </p>
