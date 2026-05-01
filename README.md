@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack Web Developer | Building Scalable Web Apps & Interactive Solutions</h3>
 
 <p align="center">
-I’m a Full Stack Web Developer passionate about crafting scalable applications and interactive solutions.  
+I'm a Full Stack Web Developer passionate about crafting scalable applications and interactive solutions.  
 With hands-on experience in React, Node.js, and MongoDB, I enjoy solving real-world problems  
 and building products that blend functionality with great user experience.
 </p>
@@ -19,7 +19,7 @@ and building products that blend functionality with great user experience.
 
 ## 🚀 About Me  
 
-💻 Associate Software Developer at **ARENESS Foundation** (7 months), working on live projects like **Case Management System** (www.cms.lawterv.com) involving frontend, backend, microservices, and web scraping.  
+💻 Former Associate Software Developer at **ARENESS Foundation** (Worked until October 2025), where I contributed to live projects like **Case Management System** (www.cms.lawterv.com) involving frontend, backend, microservices, and web scraping.  
 
 🔭 Currently working on **Recipe App (MERN)** & **Case Management Solutions**  
 
@@ -70,11 +70,11 @@ and building products that blend functionality with great user experience.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=strivendra002&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://streak-stats.demolab.com/?user=strivendra002&theme=radical&hide_border=true" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=strivendra002&theme=radical&hide_border=true" alt="GitHub Streak" height="165">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strivendra002&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strivendra002&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165">
 </div>
 
 ---
@@ -103,7 +103,7 @@ Search any dish and view detailed recipes.
 ---
 
 ### ⚖️ Court Case Management  
-High Court & Consumer Court case tracking system with notifications and JWT authentication (working).  
+High Court & Consumer Court case tracking system with notifications and JWT authentication.  
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/strivendra002)  
 
 ---
