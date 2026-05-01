@@ -74,7 +74,7 @@ and building products that blend functionality with great user experience.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strivendra002&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true&cache_seconds=1" height="165">
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=strivendra002&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
