@@ -65,16 +65,16 @@ and building products that blend functionality with great user experience.
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)  
 
 ---
-
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=strivendra002&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=strivendra002&theme=radical&hide_border=true" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-stats-8cq8-gg1uajb66-strivendra002s-projects.vercel.app/api?username=strivendra002&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165">
+  
+  <img src="https://streak-stats.demolab.com?user=strivendra002&theme=radical&hide_border=true" height="165">
 </div>
 
 <div align="center">
- <img src="https://github-readme-stats-8cq8-gg1uajb66-strivendra002s-projects.vercel.app/api/top-langs?username=strivendra002" />
+  <img src="https://github-readme-stats-8cq8-gg1uajb66-strivendra002s-projects.vercel.app/api/top-langs/?username=strivendra002&layout=compact&theme=radical&hide_border=true" height="165">
 </div>
 
 ---
