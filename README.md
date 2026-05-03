@@ -68,16 +68,14 @@ and building products that blend functionality with great user experience.
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats-8cq8-gg1uajb66-strivendra002s-projects.vercel.app/api?username=strivendra002&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=strivendra002&show_icons=true&theme=radical&hide_border=true" height="165">
   
   <img src="https://streak-stats.demolab.com?user=strivendra002&theme=radical&hide_border=true" height="165">
 </div>
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats-8cq8-gg1uajb66-strivendra002s-projects.vercel.app/api/top-langs/?username=strivendra002&layout=compact&theme=radical&hide_border=true" height="165"> -->
-  <img src="https://github-readme-stats-8cq8-gg1uajb66-strivendra002s-projects.vercel.app/api/top-langs/?username=strivendra002&layout=compact&theme=radical&hide_border=true&v=2" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=strivendra002&layout=compact&theme=radical&hide_border=true" height="165">
 </div>
-
 ---
 
 ## 🎯 Featured Projects  
